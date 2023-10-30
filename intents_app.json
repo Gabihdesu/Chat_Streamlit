@@ -1,0 +1,24 @@
+{"intents":  [
+  {"tag":  "saudacoes",
+  "patterns": ["hello", "hi", "bom dia", "olá", "ola", "oi", "tudo bem?", "tudo certo?", "blz ?"],
+  "responses":  ["Hello!", "Oii, Tudo bem?", "Olá", "O que eu posso fazer por você ?"]
+  },
+
+  {"tag":  "despedidas",
+  "patterns": ["tchau", "adeus", "até mais", "até a próxima", "bye", "estou indo", "sair"],
+  "responses":  ["Triste em ver você ir :( ", "Falo com você mais tarde", "Até a próxima !", "Volte sempre."]
+  },
+
+  {"tag":  "idade",
+  "patterns": ["quantos anos?", "quantos anos tem?", "qual a sua idade?", "quantos anos você tem?", "qual sua idade?"],
+  "responses":  ["Eu tenho 24 anos."]
+  },
+
+  {"tag":  "nome",
+  "patterns": ["qual o seu nome", "como devo te chamar?", "qual é o seu nome?", "como você se chama?", "quem é você?", "pode me falar seu nome?", "tudo bem?", "tudo certo?", "blz ?"],
+  "responses":  ["Pode me chamar de Eva!", "Eu sou a Eva", "Meu nome é Eva"]
+  }
+
+]}
+
+
