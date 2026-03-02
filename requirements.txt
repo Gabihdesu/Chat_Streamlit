@@ -2,10 +2,4 @@ streamlit
 pandas
 nltk
 tensorflow
-os
-random
-pickle
-json
 numpy
-textwrap
-WordNetLemmatizer
